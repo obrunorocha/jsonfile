@@ -1,0 +1,758 @@
+{
+  "Background": [
+    {
+      "trait": "Blue",
+      "weight": "12",
+      "occurrence": "439 in 10000 editions (4.39 %)"
+    },
+    {
+      "trait": "Gold",
+      "weight": "1",
+      "occurrence": "38 in 10000 editions (0.38 %)"
+    },
+    {
+      "trait": "Gray",
+      "weight": "62",
+      "occurrence": "2271 in 10000 editions (22.71 %)"
+    },
+    {
+      "trait": "Green",
+      "weight": "20",
+      "occurrence": "792 in 10000 editions (7.92 %)"
+    },
+    {
+      "trait": "Orange",
+      "weight": "12",
+      "occurrence": "459 in 10000 editions (4.59 %)"
+    },
+    {
+      "trait": "Pink",
+      "weight": "62",
+      "occurrence": "2100 in 10000 editions (21.00 %)"
+    },
+    {
+      "trait": "Purple",
+      "weight": "5",
+      "occurrence": "170 in 10000 editions (1.70 %)"
+    },
+    {
+      "trait": "Red",
+      "weight": "20",
+      "occurrence": "724 in 10000 editions (7.24 %)"
+    },
+    {
+      "trait": "Salmon",
+      "weight": "62",
+      "occurrence": "2265 in 10000 editions (22.65 %)"
+    },
+    {
+      "trait": "Yellow",
+      "weight": "20",
+      "occurrence": "742 in 10000 editions (7.42 %)"
+    }
+  ],
+    "Body":[
+    {
+      "trait": "Blue",
+      "weight": "5",
+      "occurrence": "293 in 10000 editions (2.93 %)"
+    },
+    {
+      "trait": "Green",
+      "weight": "12",
+      "occurrence": "666 in 10000 editions (6.66 %)"
+    },
+    {
+      "trait": "Hot Pink",
+      "weight": "12",
+      "occurrence": "645 in 10000 editions (6.45 %)"
+    },
+    {
+      "trait": "Opal",
+      "weight": "1",
+      "occurrence": "57 in 10000 editions (0.57 %)"
+    },
+    {
+      "trait": "Orange",
+      "weight": "20",
+      "occurrence": "1070 in 10000 editions (10.70 %)"
+    },
+    {
+      "trait": "Red",
+      "weight": "20",
+      "occurrence": "1103 in 10000 editions (11.03 %)"
+    },
+    {
+      "trait": "Standard",
+      "weight": "62",
+      "occurrence": "3402 in 10000 editions (34.02 %)"
+    },
+    {
+      "trait": "Torquoise",
+      "weight": "20",
+      "occurrence": "1046 in 10000 editions (10.46 %)"
+    },
+    {
+      "trait": "Violet",
+      "weight": "20",
+      "occurrence": "1046 in 10000 editions (10.46 %)"
+    },
+    {
+      "trait": "Yellow",
+      "weight": "12",
+      "occurrence": "672 in 10000 editions (6.72 %)"
+    }
+  ],
+
+  "Face":[
+    {
+      "trait": "Closed Eyes",
+      "weight": "1",
+      "occurrence": "125 in 10000 editions (1.25 %)"
+    },
+    {
+      "trait": "Standard",
+      "weight": "62",
+      "occurrence": "8325 in 10000 editions (83.25 %)"
+    },
+    {
+      "trait": "Tongue",
+      "weight": "12",
+      "occurrence": "1550 in 10000 editions (15.50 %)"
+    }
+  ],
+
+  "Clothes":[
+    {
+      "trait": "Blank",
+      "weight": "62",
+      "occurrence": "1159 in 10000 editions (11.59 %)"
+    },
+    {
+      "trait": "Blue Black Camouflage Sweatshirt",
+      "weight": "12",
+      "occurrence": "248 in 10000 editions (2.48 %)"
+    },
+    {
+      "trait": "Blue Tropical Shirt",
+      "weight": "5",
+      "occurrence": "107 in 10000 editions (1.07 %)"
+    },
+    {
+      "trait": "Blue Yellow Shirt",
+      "weight": "5",
+      "occurrence": "89 in 10000 editions (0.89 %)"
+    },
+    {
+      "trait": "Bronze Chain",
+      "weight": "12",
+      "occurrence": "250 in 10000 editions (2.50 %)"
+    },
+    {
+      "trait": "Cow Shirt",
+      "weight": "5",
+      "occurrence": "96 in 10000 editions (0.96 %)"
+    },
+    {
+      "trait": "Cow Sweatshirt",
+      "weight": "12",
+      "occurrence": "254 in 10000 editions (2.54 %)"
+    },
+    {
+      "trait": "Cyan Black Shirt",
+      "weight": "20",
+      "occurrence": "391 in 10000 editions (3.91 %)"
+    },
+    {
+      "trait": "Cyan Tropical Shirt",
+      "weight": "20",
+      "occurrence": "394 in 10000 editions (3.94 %)"
+    },
+    {
+      "trait": "Ehereum White Shirt",
+      "weight": "12",
+      "occurrence": "259 in 10000 editions (2.59 %)"
+    },
+    {
+      "trait": "Ethereum Black Shirt",
+      "weight": "12",
+      "occurrence": "233 in 10000 editions (2.33 %)"
+    },
+    {
+      "trait": "Ethereum Bronze Chain",
+      "weight": "12",
+      "occurrence": "236 in 10000 editions (2.36 %)"
+    },
+    {
+      "trait": "Ethereum Gold Chain",
+      "weight": "1",
+      "occurrence": "22 in 10000 editions (0.22 %)"
+    },
+    {
+      "trait": "Ethereum Silver Chain",
+      "weight": "5",
+      "occurrence": "97 in 10000 editions (0.97 %)"
+    },
+    {
+      "trait": "Floral Vines Shirt",
+      "weight": "5",
+      "occurrence": "97 in 10000 editions (0.97 %)"
+    },
+    {
+      "trait": "Forest Camouflage Sweatshirt",
+      "weight": "1",
+      "occurrence": "27 in 10000 editions (0.27 %)"
+    },
+    {
+      "trait": "Gold Chain",
+      "weight": "1",
+      "occurrence": "20 in 10000 editions (0.20 %)"
+    },
+    {
+      "trait": "Green Tropical Shirt",
+      "weight": "12",
+      "occurrence": "249 in 10000 editions (2.49 %)"
+    },
+    {
+      "trait": "Green White Shirt",
+      "weight": "20",
+      "occurrence": "374 in 10000 editions (3.74 %)"
+    },
+    {
+      "trait": "Herringbone1 Bow Tie",
+      "weight": "12",
+      "occurrence": "266 in 10000 editions (2.66 %)"
+    },
+    {
+      "trait": "Herringbone2 Bow Tie",
+      "weight": "20",
+      "occurrence": "387 in 10000 editions (3.87 %)"
+    },
+    {
+      "trait": "Hexagon Chinese Bow Tie",
+      "weight": "20",
+      "occurrence": "380 in 10000 editions (3.80 %)"
+    },
+    {
+      "trait": "Links Japanese Bow Tie",
+      "weight": "20",
+      "occurrence": "405 in 10000 editions (4.05 %)"
+    },
+    {
+      "trait": "Mafia Trench Coat",
+      "weight": "5",
+      "occurrence": "108 in 10000 editions (1.08 %)"
+    },
+    {
+      "trait": "Magenta Tropical Shirt",
+      "weight": "12",
+      "occurrence": "249 in 10000 editions (2.49 %)"
+    },
+    {
+      "trait": "Navy Camouflage Sweatshirt",
+      "weight": "5",
+      "occurrence": "103 in 10000 editions (1.03 %)"
+    },
+    {
+      "trait": "Orange Camouflage Sweatshirt",
+      "weight": "5",
+      "occurrence": "99 in 10000 editions (0.99 %)"
+    },
+    {
+      "trait": "Orange Red Shirt",
+      "weight": "20",
+      "occurrence": "388 in 10000 editions (3.88 %)"
+    },
+    {
+      "trait": "Orange Tropical Shirt",
+      "weight": "20",
+      "occurrence": "401 in 10000 editions (4.01 %)"
+    },
+    {
+      "trait": "Plaid Bow Tie",
+      "weight": "5",
+      "occurrence": "112 in 10000 editions (1.12 %)"
+    },
+    {
+      "trait": "Purple White Shirt",
+      "weight": "20",
+      "occurrence": "396 in 10000 editions (3.96 %)"
+    },
+    {
+      "trait": "Ranger Camouflage Sweatshirt",
+      "weight": "12",
+      "occurrence": "243 in 10000 editions (2.43 %)"
+    },
+    {
+      "trait": "Red Tropical Shirt",
+      "weight": "20",
+      "occurrence": "415 in 10000 editions (4.15 %)"
+    },
+    {
+      "trait": "Roses Shirt",
+      "weight": "5",
+      "occurrence": "92 in 10000 editions (0.92 %)"
+    },
+    {
+      "trait": "Sailor Shirt",
+      "weight": "5",
+      "occurrence": "95 in 10000 editions (0.95 %)"
+    },
+    {
+      "trait": "Silver Chain",
+      "weight": "5",
+      "occurrence": "105 in 10000 editions (1.05 %)"
+    },
+    {
+      "trait": "Splatterz Bow Tie",
+      "weight": "1",
+      "occurrence": "19 in 10000 editions (0.19 %)"
+    },
+    {
+      "trait": "Teal Turquoise Camouflage Sweatshirt",
+      "weight": "5",
+      "occurrence": "101 in 10000 editions (1.01 %)"
+    },
+    {
+      "trait": "Tuxedo",
+      "weight": "5",
+      "occurrence": "105 in 10000 editions (1.05 %)"
+    },
+    {
+      "trait": "Waves Bow Tie",
+      "weight": "12",
+      "occurrence": "232 in 10000 editions (2.32 %)"
+    },
+    {
+      "trait": "Waves Smoth Bow Tie",
+      "weight": "20",
+      "occurrence": "421 in 10000 editions (4.21 %)"
+    },
+    {
+      "trait": "Yellow Green Shirt",
+      "weight": "1",
+      "occurrence": "16 in 10000 editions (0.16 %)"
+    },
+    {
+      "trait": "Yellow Tropical Shirt",
+      "weight": "1",
+      "occurrence": "18 in 10000 editions (0.18 %)"
+    },
+    {
+      "trait": "Zigzag Bow Tie",
+      "weight": "12",
+      "occurrence": "242 in 10000 editions (2.42 %)"
+    }
+  ],
+
+  "Glasses":[
+    {
+      "trait": "3D Glasses",
+      "weight": "5",
+      "occurrence": "178 in 10000 editions (1.78 %)"
+    },
+    {
+      "trait": "Black Aviator",
+      "weight": "5",
+      "occurrence": "168 in 10000 editions (1.68 %)"
+    },
+    {
+      "trait": "Blank",
+      "weight": "62",
+      "occurrence": "2183 in 10000 editions (21.83 %)"
+    },
+    {
+      "trait": "Blue Aviator",
+      "weight": "20",
+      "occurrence": "692 in 10000 editions (6.92 %)"
+    },
+    {
+      "trait": "Blue Yellow Sport",
+      "weight": "12",
+      "occurrence": "416 in 10000 editions (4.16 %)"
+    },
+    {
+      "trait": "Cyan Aviator",
+      "weight": "20",
+      "occurrence": "705 in 10000 editions (7.05 %)"
+    },
+    {
+      "trait": "Cyan Red Sport",
+      "weight": "12",
+      "occurrence": "428 in 10000 editions (4.28 %)"
+    },
+    {
+      "trait": "Green Aviator",
+      "weight": "12",
+      "occurrence": "394 in 10000 editions (3.94 %)"
+    },
+    {
+      "trait": "Green Magenta Sport",
+      "weight": "20",
+      "occurrence": "742 in 10000 editions (7.42 %)"
+    },
+    {
+      "trait": "Magenta Aviator",
+      "weight": "12",
+      "occurrence": "423 in 10000 editions (4.23 %)"
+    },
+    {
+      "trait": "Orange Aviator",
+      "weight": "20",
+      "occurrence": "747 in 10000 editions (7.47 %)"
+    },
+    {
+      "trait": "Orange Blue Sport",
+      "weight": "20",
+      "occurrence": "692 in 10000 editions (6.92 %)"
+    },
+    {
+      "trait": "Purple Aviator",
+      "weight": "20",
+      "occurrence": "721 in 10000 editions (7.21 %)"
+    },
+    {
+      "trait": "Purple Green Sport",
+      "weight": "1",
+      "occurrence": "30 in 10000 editions (0.30 %)"
+    },
+    {
+      "trait": "Red Aviator",
+      "weight": "5",
+      "occurrence": "181 in 10000 editions (1.81 %)"
+    },
+    {
+      "trait": "Red Orange Sport",
+      "weight": "5",
+      "occurrence": "171 in 10000 editions (1.71 %)"
+    },
+    {
+      "trait": "White Aviator",
+      "weight": "12",
+      "occurrence": "399 in 10000 editions (3.99 %)"
+    },
+    {
+      "trait": "Yellow Aviator",
+      "weight": "1",
+      "occurrence": "35 in 10000 editions (0.35 %)"
+    },
+    {
+      "trait": "Yellow Blue Sport",
+      "weight": "20",
+      "occurrence": "695 in 10000 editions (6.95 %)"
+    }
+  ],
+
+  "Headgear":[
+    {
+      "trait": "Black Bucket",
+      "weight": "20",
+      "occurrence": "294 in 10000 editions (2.94 %)"
+    },
+    {
+      "trait": "Black Cap",
+      "weight": "5",
+      "occurrence": "82 in 10000 editions (0.82 %)"
+    },
+    {
+      "trait": "Black Flat Brim Cap",
+      "weight": "5",
+      "occurrence": "80 in 10000 editions (0.80 %)"
+    },
+    {
+      "trait": "Blank",
+      "weight": "62",
+      "occurrence": "925 in 10000 editions (9.25 %)"
+    },
+    {
+      "trait": "Blue Black Camouflage Cap",
+      "weight": "5",
+      "occurrence": "82 in 10000 editions (0.82 %)"
+    },
+    {
+      "trait": "Blue Black Camouflage Flat Brim Cap",
+      "weight": "5",
+      "occurrence": "75 in 10000 editions (0.75 %)"
+    },
+    {
+      "trait": "Blue Cap",
+      "weight": "12",
+      "occurrence": "199 in 10000 editions (1.99 %)"
+    },
+    {
+      "trait": "Blue Flat Brim Cap",
+      "weight": "12",
+      "occurrence": "196 in 10000 editions (1.96 %)"
+    },
+    {
+      "trait": "Blue Headphone",
+      "weight": "12",
+      "occurrence": "194 in 10000 editions (1.94 %)"
+    },
+    {
+      "trait": "Bluesky Bucket Hat",
+      "weight": "5",
+      "occurrence": "72 in 10000 editions (0.72 %)"
+    },
+    {
+      "trait": "Bronze Crown",
+      "weight": "12",
+      "occurrence": "182 in 10000 editions (1.82 %)"
+    },
+    {
+      "trait": "Bugaboo Bucket Hat",
+      "weight": "5",
+      "occurrence": "77 in 10000 editions (0.77 %)"
+    },
+    {
+      "trait": "Cheetah Camouflage Cap",
+      "weight": "5",
+      "occurrence": "82 in 10000 editions (0.82 %)"
+    },
+    {
+      "trait": "Cyan Headphone",
+      "weight": "12",
+      "occurrence": "172 in 10000 editions (1.72 %)"
+    },
+    {
+      "trait": "Ethereum Black Cap",
+      "weight": "1",
+      "occurrence": "14 in 10000 editions (0.14 %)"
+    },
+    {
+      "trait": "Ethereum Black Flap Brim Cap",
+      "weight": "1",
+      "occurrence": "19 in 10000 editions (0.19 %)"
+    },
+    {
+      "trait": "Ethereum White Cap",
+      "weight": "5",
+      "occurrence": "82 in 10000 editions (0.82 %)"
+    },
+    {
+      "trait": "Ethereum White Flap Brim Cap",
+      "weight": "5",
+      "occurrence": "79 in 10000 editions (0.79 %)"
+    },
+    {
+      "trait": "Forest Camouflage Cap",
+      "weight": "5",
+      "occurrence": "89 in 10000 editions (0.89 %)"
+    },
+    {
+      "trait": "Forest Camouflage Flat Brim Cap",
+      "weight": "5",
+      "occurrence": "83 in 10000 editions (0.83 %)"
+    },
+    {
+      "trait": "Gold Bucket Hat",
+      "weight": "1",
+      "occurrence": "20 in 10000 editions (0.20 %)"
+    },
+    {
+      "trait": "Gold Cap",
+      "weight": "1",
+      "occurrence": "14 in 10000 editions (0.14 %)"
+    },
+    {
+      "trait": "Gold Crown",
+      "weight": "1",
+      "occurrence": "18 in 10000 editions (0.18 %)"
+    },
+    {
+      "trait": "Gold Flat Brim Cap",
+      "weight": "1",
+      "occurrence": "16 in 10000 editions (0.16 %)"
+    },
+    {
+      "trait": "Gold Headphone",
+      "weight": "1",
+      "occurrence": "7 in 10000 editions (0.07 %)"
+    },
+    {
+      "trait": "Gray Headphone",
+      "weight": "20",
+      "occurrence": "294 in 10000 editions (2.94 %)"
+    },
+    {
+      "trait": "Green Bucket Hat",
+      "weight": "12",
+      "occurrence": "173 in 10000 editions (1.73 %)"
+    },
+    {
+      "trait": "Green Cap",
+      "weight": "5",
+      "occurrence": "58 in 10000 editions (0.58 %)"
+    },
+    {
+      "trait": "Green Flat Brim Cap",
+      "weight": "12",
+      "occurrence": "176 in 10000 editions (1.76 %)"
+    },
+    {
+      "trait": "Green Headphone",
+      "weight": "5",
+      "occurrence": "68 in 10000 editions (0.68 %)"
+    },
+    {
+      "trait": "Leopard Camouflage Cap",
+      "weight": "5",
+      "occurrence": "77 in 10000 editions (0.77 %)"
+    },
+    {
+      "trait": "Mafia Hat",
+      "weight": "5",
+      "occurrence": "66 in 10000 editions (0.66 %)"
+    },
+    {
+      "trait": "Magenta Flat Brim Cap",
+      "weight": "12",
+      "occurrence": "167 in 10000 editions (1.67 %)"
+    },
+    {
+      "trait": "Magenta Headphone",
+      "weight": "12",
+      "occurrence": "178 in 10000 editions (1.78 %)"
+    },
+    {
+      "trait": "Navy Camouflage Flat Brim Cap",
+      "weight": "5",
+      "occurrence": "85 in 10000 editions (0.85 %)"
+    },
+    {
+      "trait": "Orange Black Bucket Hat",
+      "weight": "12",
+      "occurrence": "188 in 10000 editions (1.88 %)"
+    },
+    {
+      "trait": "Orange Camouflage Flat Brim Cap",
+      "weight": "5",
+      "occurrence": "83 in 10000 editions (0.83 %)"
+    },
+    {
+      "trait": "Orange Cap",
+      "weight": "12",
+      "occurrence": "169 in 10000 editions (1.69 %)"
+    },
+    {
+      "trait": "Orange Flat Brim Cap",
+      "weight": "20",
+      "occurrence": "323 in 10000 editions (3.23 %)"
+    },
+    {
+      "trait": "Orange Headphone",
+      "weight": "20",
+      "occurrence": "285 in 10000 editions (2.85 %)"
+    },
+    {
+      "trait": "Pink Bucket Hat",
+      "weight": "20",
+      "occurrence": "285 in 10000 editions (2.85 %)"
+    },
+    {
+      "trait": "Pink Cap",
+      "weight": "20",
+      "occurrence": "276 in 10000 editions (2.76 %)"
+    },
+    {
+      "trait": "Purple Bucket Hat",
+      "weight": "20",
+      "occurrence": "309 in 10000 editions (3.09 %)"
+    },
+    {
+      "trait": "Purple Cap",
+      "weight": "20",
+      "occurrence": "294 in 10000 editions (2.94 %)"
+    },
+    {
+      "trait": "Purple Flat Brim Cap",
+      "weight": "20",
+      "occurrence": "306 in 10000 editions (3.06 %)"
+    },
+    {
+      "trait": "Purple Headphone",
+      "weight": "5",
+      "occurrence": "66 in 10000 editions (0.66 %)"
+    },
+    {
+      "trait": "Ranger Camouflage Flat Brim Cap",
+      "weight": "5",
+      "occurrence": "79 in 10000 editions (0.79 %)"
+    },
+    {
+      "trait": "Red Cap",
+      "weight": "20",
+      "occurrence": "302 in 10000 editions (3.02 %)"
+    },
+    {
+      "trait": "Red Flat Brim Cap",
+      "weight": "20",
+      "occurrence": "293 in 10000 editions (2.93 %)"
+    },
+    {
+      "trait": "Red Headphone",
+      "weight": "20",
+      "occurrence": "334 in 10000 editions (3.34 %)"
+    },
+    {
+      "trait": "Roses Cap",
+      "weight": "5",
+      "occurrence": "69 in 10000 editions (0.69 %)"
+    },
+    {
+      "trait": "Sailor Hat",
+      "weight": "5",
+      "occurrence": "65 in 10000 editions (0.65 %)"
+    },
+    {
+      "trait": "Silver Crown",
+      "weight": "5",
+      "occurrence": "89 in 10000 editions (0.89 %)"
+    },
+    {
+      "trait": "Teal Turquoise Camouflage Flat Brim Cap",
+      "weight": "5",
+      "occurrence": "77 in 10000 editions (0.77 %)"
+    },
+    {
+      "trait": "White Bucket Hat",
+      "weight": "20",
+      "occurrence": "279 in 10000 editions (2.79 %)"
+    },
+    {
+      "trait": "White Cap",
+      "weight": "12",
+      "occurrence": "158 in 10000 editions (1.58 %)"
+    },
+    {
+      "trait": "White Flap Brim Cap",
+      "weight": "5",
+      "occurrence": "70 in 10000 editions (0.70 %)"
+    },
+    {
+      "trait": "Yellow Black Bucket Hat",
+      "weight": "12",
+      "occurrence": "155 in 10000 editions (1.55 %)"
+    },
+    {
+      "trait": "Yellow Cap",
+      "weight": "20",
+      "occurrence": "280 in 10000 editions (2.80 %)"
+    },
+    {
+      "trait": "Yellow Flat Brim Cap",
+      "weight": "20",
+      "occurrence": "300 in 10000 editions (3.00 %)"
+    },
+    {
+      "trait": "Yellow Headphone",
+      "weight": "20",
+      "occurrence": "300 in 10000 editions (3.00 %)"
+    },
+    {
+      "trait": "Zebra Camouflage Cap",
+      "weight": "5",
+      "occurrence": "71 in 10000 editions (0.71 %)"
+    }
+  ]
+}
